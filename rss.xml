@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fun times]]></title>
+        <description><![CDATA[Fun times]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 23:31:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Stockcars]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d22cc696-f3b3-4b00-99f6-16fce7c53fa7.jpg">]]></description>
+            <link>undefinedthe-stockcars/index.html</link>
+            <guid isPermaLink="false">bff84932-e6af-45b9-85e9-9b0ed191d864</guid>
+            <pubDate>Sat, 23 Apr 2016 23:31:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
