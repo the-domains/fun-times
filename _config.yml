@@ -1,28 +1,40 @@
-name: Fun times
-favicon: null
-layout_spectrum: 0.45684430259279907
-typography_spectrum: 0.8879721309058368
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.2606108381878585
+  brandStrength: 0.224245636491105
+  rhythmicContrast: 0.8014983294997364
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.22424563649110496
-  lightness: 0.34854554501362145
-  saturation: 0.26061083818785846
-  rhythmicContrast: 0.8014983294997364
-purpose: []
+  lightness: 0.3485455450136214
+typography_spectrum: 0.09318996
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Fun times
